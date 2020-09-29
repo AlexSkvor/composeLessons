@@ -69,7 +69,8 @@ fun NewsStory() {
         }
     }
 }
-
+// using viewModel from di example :)
+//TODO https://github.com/vinaygaba/Learn-Jetpack-Compose-By-Example/blob/master/app/src/main/java/com/example/jetpackcompose/state/livedata/LiveDataActivity.kt
 @Preview
 @Composable
 fun PreviewGreeting() {
